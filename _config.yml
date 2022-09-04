@@ -17,7 +17,7 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Paris
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
   My personal blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'p-vernaeckt.github.io'
+url: 'blog.x99.fr'
 
 github:
   username: p-vernaeckt             # change to your github username
@@ -49,7 +49,7 @@ social:
     - https://github.com/p-vernaeckt       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/pierre-vernaeckt/
 
 google_site_verification:               # fill in to your verification string
 

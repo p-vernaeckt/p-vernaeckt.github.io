@@ -1,15 +1,19 @@
 #  The contact options.
 
 -
+  type: Gitlab
+  icon: 'fab fa-gitlab'
+  url:  'https://gitlab.com/X99'
+-
   type: github
   icon: 'fab fa-github'
 -
   type: twitter
   icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+# -
+#   type: email
+#   icon: 'fas fa-envelope'
+#   noblank: true            # open link in current tab
 -
   type: rss
   icon: 'fas fa-rss'

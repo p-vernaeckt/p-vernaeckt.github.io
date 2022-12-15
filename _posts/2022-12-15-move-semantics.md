@@ -1,5 +1,5 @@
 ---
-title: C++ objects lifetime
+title: C++ move semantics benefits
 date: 2022-12-15 22:10:00 +0200
 categories: [C++]
 tags: [c++, move semantics]     # TAG names should always be lowercase
